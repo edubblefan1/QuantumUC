@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         database = FirebaseDatabase.getInstance("https://quantumuc-683e5-default-rtdb.firebaseio.com/");
         myRef = database.getReference();
 
