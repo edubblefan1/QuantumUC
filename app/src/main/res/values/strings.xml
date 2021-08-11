@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuantumUC</string>
+    <string name="edit_message"> </string>
+    <string name="button_post">POST</string>
+</resources>

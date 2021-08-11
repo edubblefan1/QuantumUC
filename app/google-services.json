@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "444371259704",
+    "project_id": "quantum-95771",
+    "storage_bucket": "quantum-95771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444371259704:android:90198416169099e93471cd",
+        "android_client_info": {
+          "package_name": "com.example.quantum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444371259704-j08kdia5dmjukhndbusf1l1eehjem9k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7R-zPTixp_Fn2mWqudJzlQTex3oVI-W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444371259704-j08kdia5dmjukhndbusf1l1eehjem9k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444371259704:android:0e4054fb3d47df323471cd",
+        "android_client_info": {
+          "package_name": "com.example.quantumuc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444371259704-j08kdia5dmjukhndbusf1l1eehjem9k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7R-zPTixp_Fn2mWqudJzlQTex3oVI-W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444371259704-j08kdia5dmjukhndbusf1l1eehjem9k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
